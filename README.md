@@ -1,1 +1,2 @@
 "# Python101" 
+learn how to use the command import and more such as the command calculate to use in alot of project. using the commnd "import" so the user can imput answer. learn to put words in other file like a txt file and also read the word in the file. make use of all the things learned to make a even more complicated code that can be use daily. learn how to calculate numbers by using "=,-,*,/,%" adn make use of it in a code. learn how to use the if, else command. 
