@@ -1,0 +1,35 @@
+[
+    {
+        "ชื่อ": "u",
+        "นามสกุล": "u",
+        "รหัสนักเรียน": "77",
+        "math": 77,
+        "grade_math": "B",
+        "science": 77,
+        "grade_science": "B",
+        "art": 77,
+        "grade_art": "B"
+    },
+    {
+        "ชื่อ": "i",
+        "นามสกุล": "i",
+        "รหัสนักเรียน": "88",
+        "math": 88,
+        "grade_math": "A",
+        "science": 88,
+        "grade_science": "A",
+        "art": 88,
+        "grade_art": "A"
+    },
+    {
+        "ชื่อ": "o",
+        "นามสกุล": "o",
+        "รหัสนักเรียน": "99",
+        "math": 99,
+        "grade_math": "A",
+        "science": 99,
+        "grade_science": "A",
+        "art": 99,
+        "grade_art": "A"
+    }
+]
